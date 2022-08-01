@@ -17,10 +17,12 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ![](./screen-1.png)
 ![](./screen-2.png)
+![](./screen-3.png)
+![](./screen-4.png)
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/Emagonzales/interactive-rating-component
 - Live Site URL: 
 
 ## My Process
@@ -28,7 +30,9 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ### Built with
 
 - React.js
-- 
+- HTML
+- CSS (SCSS)
+- Javascript
 
 ## Author
 

@@ -24,7 +24,6 @@ export default function App() {
             <p>Please let us know how we did with your support request. All feedback is appreciated to help us improve our offering!</p>
           </div>
           <Rate changeValue={rateVal => setRateVal(rateVal)}/>
-          {rateVal}
           <button className="main-btn" onClick={submit}>SUBMIT</button>
         </div>
       )}
